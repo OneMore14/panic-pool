@@ -1,0 +1,3 @@
+## panic-pool
+
+A very naive thread pool library which is aimed to explore different ways to handle panics in thread pool.
